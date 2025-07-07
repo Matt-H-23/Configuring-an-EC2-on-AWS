@@ -1,4 +1,4 @@
-# EC2 Setup/Active Directory Setup 💻
+# EC2 Setup 💻
 ### Step 1: Log into your AWS account ➡️
 - If you haven't already, go ahead and create an account for AWS
 ![AWS LogIn](https://github.com/user-attachments/assets/3d75dbc8-ffb4-4431-9d13-d7256e7f11f1)
