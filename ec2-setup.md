@@ -1,7 +1,7 @@
 # EC2 Setup 💻
 ### Step 1: Log into your AWS account ➡️
 - If you haven't already, go ahead and create an account for AWS
-![AWS LogIn](https://github.com/user-attachments/assets/3d75dbc8-ffb4-4431-9d13-d7256e7f11f1)
+![AWS LogIn](awslogin.png)
 
 ### Step 2: After configuring your AWS account, search up **EC2** in the search bar, or select it if you have used it before ➡️
 ![EC2](https://github.com/user-attachments/assets/a9645cbe-7f8a-40a4-ae7a-19579d7a74d8)
